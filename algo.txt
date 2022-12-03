@@ -1,0 +1,6 @@
+Step 1: Pick a pizza place
+Step 2: Choose your crust
+Step 3: Choose your toppings
+Step 4: Finialize your order
+Step 5: Pay for your order
+Step 6: Wait for the delivery
